@@ -1,6 +1,6 @@
 import random
-from workflowhub import WorkflowGenerator
-from workflowhub.generator import EpigenomicsRecipe, GenomeRecipe, MontageRecipe, CyclesRecipe, SoyKBRecipe, \
+from wfcommons import WorkflowGenerator
+from wfcommons.generator import EpigenomicsRecipe, GenomeRecipe, MontageRecipe, CyclesRecipe, SoyKBRecipe, \
     SeismologyRecipe
 import os
 
